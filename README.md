@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pfrancisco43
+- 👋 Hi, I’m Paulo Francisco
 - 👀 I’m interested in 5g positioning
 - 🌱 I’m currently learning 5g positioning
 - 💞️ I’m looking to collaborate on 5g positioning
